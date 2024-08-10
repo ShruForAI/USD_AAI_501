@@ -78,7 +78,7 @@ Bidirectional LSTM was selected as the final DL model due to its superior perfor
 
 Run the Jupyter Notebooks
 
-Navigate to the notebooks/ directory and open the respective Jupyter notebooks to see the model building, evaluation, and analysis steps.
+Navigate to the directory and open the respective Jupyter notebooks to see the model building, evaluation, and analysis steps.
 
 # Conclusion
 
